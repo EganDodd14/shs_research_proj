@@ -58,7 +58,7 @@ This project combines multiple Python libraries and modules to control and monit
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 smart_hydro/
 ├── main.py                # Main script
 ├── hydro_utils.py         # Reusable sensor/camera/light functions
@@ -70,7 +70,7 @@ smart_hydro/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Connect your Raspberry Pi with:
    - Pi Camera Module
